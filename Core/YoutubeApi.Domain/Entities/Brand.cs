@@ -11,7 +11,7 @@ namespace YoutubeApi.Domain.Entities
     {
         public Brand()
         {
-
+            
         }
         public Brand(string name)
         {
